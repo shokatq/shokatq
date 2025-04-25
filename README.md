@@ -33,9 +33,9 @@ I'm @shokatq, a passionate developer weaving code into digital masterpieces! Ins
 
 <div align="center">
   
-[![Gmail Badge](https://img.shields.io/badge/-shokatq.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shokatq.dev@gmail.com)](mailto:shokatq.dev@gmail.com)
-[![Twitter Badge](https://img.shields.io/badge/-@shokatq_codes-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/shokatq_codes)](https://twitter.com/shokatq_codes)
-[![Linkedin Badge](https://img.shields.io/badge/-shokatq-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shokatq/)](https://www.linkedin.com/in/shokatq/)
+[![Gmail Badge](https://img.shields.io/badge/-shokatq.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shokatq.dev@gmail.com)](mailto:sayyadshokat21@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@shokatq_codes-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/shokatq_codes)](https://twitter.com/shokii.dev)
+[![Linkedin Badge](https://img.shields.io/badge/-shokatq-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shokatq/)](https://www.linkedin.com/in/sayyad-shokat/)
 [![Discord Badge](https://img.shields.io/badge/-shokatq%231337-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/shokatq#1337)
   
 </div>
