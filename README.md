@@ -45,10 +45,10 @@ Indie Games: Stories and worlds with captivating, animated gameplay.
 
 📫 How to Reach Me... 📡
 
-Email: shokatq.dev@gmail.com
-Twitter/X: @shokatq_codes
+Email: sayyadshokat21@gmail.com
+Twitter/X: @shokiidev
 LinkedIn: shokatq
-Discord: shokatq#1337
+Discord: shokat21
 Check out my Portfolio for animated project showcases!
 
 
