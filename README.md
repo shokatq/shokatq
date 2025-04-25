@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Passionate+Developer;Full-Stack+Engineer;AI+Enthusiast;Open+Source+Contributor;Game+Dev+Explorer" alt="Typing SVG" />
 </div>
 
-I'm @shokatq, a passionate developer weaving code into digital masterpieces! Inspired by the GitHub Dashboard's energy and the sleek style of deshakil, my profile is a hub for innovation, collaboration, and animated awesomeness. Let's build something stellar! 🌟
+I'm @shokat, a passionate developer weaving code into digital masterpieces! Very much into Machine learning and AI and Working on Android full stack app projects 🌟
 
 ## <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> I'm Interested In... 🔥
 
@@ -12,24 +12,23 @@ I'm @shokatq, a passionate developer weaving code into digital masterpieces! Ins
 
 - **Full-Stack Magic**: Creating slick web apps with React, Node.js, and animated UIs.
 - **AI Adventures**: Experimenting with machine learning for dynamic data visualizations.
-- **Game Dev Sparks**: Building immersive worlds with Unity and animated characters.
 - **Open-Source Quests**: Contributing to GitHub's vibrant community with impactful code.
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> I'm Currently Learning... 🌿
+## <img src="https://https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXpzdnJ1d2VtazlubnI5NnBxYm92NXNyeWV1ZmNrNTJ1cHp5ZDdqZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/iw6aVa0PT5QQYDPVAx/giphy.gif" width="50"> I'm Currently Learning... 🌿
 
-- **TypeScript Flow**: Adding type-safe animations to JavaScript projects.
-- **GraphQL Surge**: Crafting APIs with animated data streams.
-- **DevOps Flair**: Automating with Docker, GitHub Actions, and CI/CD pipelines.
-- **Rust Glow**: Diving into performance with animated interfaces.
+- **React Native**: Letting my creativity take over my actions by building apps. 
+- **Data Structure and Aglorithms**: Deciding to Hop into a MAANG.
+- **Full Stack**: Creativity flow over the webs apps.
+- **Ui/Ux**: Trying a bit.
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> I'm Looking to Collaborate On... 🤝
+## <img src="https://https://media.giphy.com/media/qsQ4mdHbTPHMvW8PZZ/giphy.gif?cid=ecf05e47zegr5449ncwnu8rf90kwpetoekk5wdinxae458ly&ep=v1_gifs_related&rid=giphy.gif&ct=g> I'm Looking to Collaborate On... 🤝
 
 - **Animated Web Projects**: Apps with smooth, eye-catching interfaces.
 - **Open-Source Gems**: GitHub repos that solve real-world challenges.
 - **AI Visualizations**: Tools that animate data in creative ways.
 - **Indie Games**: Stories with vibrant, animated worlds.
 
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="30"> How to Reach Me... 📡
+## <img src="https://https://https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2Joc200cDN1eW5pOTN0eXd2Ym9razdtaWV1ZHRmd25oMGl2ZXV5bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZQKK6dt8x4SZi6UxyZ/giphy.gif" width="30"> How to Reach Me... 📡
 
 <div align="center">
   
@@ -45,7 +44,7 @@ I'm @shokatq, a passionate developer weaving code into digital masterpieces! Ins
 - 😄 **Pronouns**: Code/He 🌌 (I speak animated CSS and He/Him. My commits dance, my code shines!)
 - ⚡ **Fun Fact**: I once built a GitHub Action that triggered a confetti explosion for every merged PR, making code reviews a party! 🎊
 
-## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="40"> My GitHub Stats
+## <img src="https://https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmFtMXF3cHpvNTNwNnA4cHM4NTAyajEzY3N1Z2oxMG90dGlxa29wcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/doiZdKMsJw9c0nuz2T/giphy.gif My GitHub Stats
 
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shokatq&show_icons=true&theme=tokyonight" />
