@@ -6,7 +6,11 @@
 
 <!-- Devil May Cry Banner -->
 <div align="center">
-  <img src="https://64.media.tumblr.com/1e81553d9a844208b2f620cc88414ce6/tumblr_pj0bbxRkQu1sgn1mbo1_640.gifv" width="100%">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/xYiQhw8.gif">
+    <source media="(prefers-color-scheme: light)" srcset="https://i.imgur.com/xYiQhw8.gif">
+    <img alt="Devil May Cry Banner" src="https://i.imgur.com/xYiQhw8.gif" width="100%">
+  </picture>
 </div>
 
 <p align="center">
@@ -18,9 +22,13 @@
   <img src="https://media.giphy.com/media/SsCYf6DRFJrOpP0IoM/giphy.gif" width="50">
 </p>
 
-<!-- Introduction with anime background -->
+<!-- Introduction with DMC background -->
 <div align="center">
-    <img src="https://i.pinimg.com/originals/a5/07/d1/a507d120135c398e8a43cfbf37d8dd6e.gif" width="100%">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/DCXwEYN.gif">
+    <source media="(prefers-color-scheme: light)" srcset="https://i.imgur.com/DCXwEYN.gif">
+    <img alt="Dante Animation" src="https://i.imgur.com/DCXwEYN.gif" width="100%">
+  </picture>
 </div>
 
 <h2 align="center">I weave code into digital masterpieces! ✨</h2>
@@ -29,17 +37,25 @@
 
 <!-- Devil May Cry Dante Animation -->
 <div align="center">
-    <img src="https://i.pinimg.com/originals/88/2a/37/882a37c9bb7991a7985cd21a45bf1fe1.gif" width="500"/><br> 
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/5XGQpPK.gif">
+    <source media="(prefers-color-scheme: light)" srcset="https://i.imgur.com/5XGQpPK.gif">
+    <img alt="Dante Combat" src="https://i.imgur.com/5XGQpPK.gif" width="500"/><br> 
+  </picture>
 </div>
 
-## <img src="https://i.pinimg.com/originals/6c/90/28/6c90288d7e10d46d18895f17f420a92c.gif" width="50"> My Digital Universe 🔥
+## <img src="https://i.imgur.com/QDA4g4C.gif" width="50"> My Digital Universe 🔥
 
 <table align="center">
   <tr>
     <td valign="top" width="50%">
       <h3 align="center">👀 I'm Interested In...</h3>
       <div align="center">
-        <img src="https://media1.tenor.com/m/UVmz8dMUmVUAAAAC/devil-may-cry-dante.gif" width="300">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/UFPkPrh.gif">
+          <source media="(prefers-color-scheme: light)" srcset="https://i.imgur.com/UFPkPrh.gif">
+          <img alt="DMC Combat" src="https://i.imgur.com/UFPkPrh.gif" width="300">
+        </picture>
       </div>
       <ul>
         <li>✨ <b>Full-Stack Magic:</b> Creating slick web apps with React, Node.js, and animated UIs.</li>
@@ -51,7 +67,11 @@
     <td valign="top" width="50%">
       <h3 align="center">🌱 I'm Currently Learning...</h3>
       <div align="center">
-        <img src="https://media1.giphy.com/media/WE8f2C7KnXSyI/giphy.gif" width="300">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/KwgVMcq.gif">
+          <source media="(prefers-color-scheme: light)" srcset="https://i.imgur.com/KwgVMcq.gif">
+          <img alt="Vergil Power" src="https://i.imgur.com/KwgVMcq.gif" width="300">
+        </picture>
       </div>
       <ul>
         <li>🔷 <b>TypeScript Flow:</b> Adding type-safe animations to JavaScript projects.</li>
@@ -64,13 +84,21 @@
 </table>
 
 <div align="center">
-  <img src="https://media1.tenor.com/m/TaOCiLeHVLQAAAAC/nero-devil-may-cry.gif" width="100%">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/dTEKu8A.gif">
+    <source media="(prefers-color-scheme: light)" srcset="https://i.imgur.com/dTEKu8A.gif">
+    <img alt="Nero DMC5" src="https://i.imgur.com/dTEKu8A.gif" width="100%">
+  </picture>
 </div>
 
-## <img src="https://i.pinimg.com/originals/85/95/9a/85959af4f28ae1a10a1b1ac2e2cbd566.gif" width="40"> Collaboration Galaxy 🤝
+## <img src="https://i.imgur.com/v8HhMu6.gif" width="40"> Collaboration Galaxy 🤝
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/9e/29/a4/9e29a4ee9352a26c7825a96e8a14ec02.gif" width="400">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/QUySua9.gif">
+    <source media="(prefers-color-scheme: light)" srcset="https://i.imgur.com/QUySua9.gif">
+    <img alt="DMC Combat" src="https://i.imgur.com/QUySua9.gif" width="400">
+  </picture>
 </div>
 
 <p align="center">I'm always looking for cosmic collaborators on:</p>
@@ -78,7 +106,11 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://media1.tenor.com/m/6IINKqVcEzYAAAAC/anime-my-hero-academia.gif" width="80" height="80">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/GcFbdoW.gif">
+        <source media="(prefers-color-scheme: light)" srcset="https://i.imgur.com/GcFbdoW.gif">
+        <img alt="DMC Dante" src="https://i.imgur.com/GcFbdoW.gif" width="80" height="80">
+      </picture>
     </td>
     <td>
       <b>Animated Web Projects:</b> Apps with smooth, eye-catching interfaces.
@@ -86,7 +118,11 @@
   </tr>
   <tr>
     <td>
-      <img src="https://media1.tenor.com/m/TRlYF98EPvwAAAAC/anime-sao.gif" width="80" height="80">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/HsQhTlQ.gif">
+        <source media="(prefers-color-scheme: light)" srcset="https://i.imgur.com/HsQhTlQ.gif">
+        <img alt="DMC Action" src="https://i.imgur.com/HsQhTlQ.gif" width="80" height="80">
+      </picture>
     </td>
     <td>
       <b>Open-Source Gems:</b> GitHub repos that solve real-world challenges.
@@ -94,7 +130,11 @@
   </tr>
   <tr>
     <td>
-      <img src="https://media1.tenor.com/m/1NNQoZL1GcMAAAAC/code-geass-lelouch.gif" width="80" height="80">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/dMlDFGa.gif">
+        <source media="(prefers-color-scheme: light)" srcset="https://i.imgur.com/dMlDFGa.gif">
+        <img alt="DMC Vergil" src="https://i.imgur.com/dMlDFGa.gif" width="80" height="80">
+      </picture>
     </td>
     <td>
       <b>AI Visualizations:</b> Tools that animate data in creative ways.
@@ -102,7 +142,11 @@
   </tr>
   <tr>
     <td>
-      <img src="https://media1.tenor.com/m/hV3qrqHXFNkAAAAC/devil-may-cry-vergil.gif" width="80" height="80">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/nvYJBUw.gif">
+        <source media="(prefers-color-scheme: light)" srcset="https://i.imgur.com/nvYJBUw.gif">
+        <img alt="DMC Combat" src="https://i.imgur.com/nvYJBUw.gif" width="80" height="80">
+      </picture>
     </td>
     <td>
       <b>Indie Games:</b> Stories with vibrant, animated worlds.
@@ -110,37 +154,61 @@
   </tr>
 </table>
 
-## <img src="https://i.pinimg.com/originals/f7/6c/50/f76c50426bf337f5667e2b493f9e5a0a.gif" width="40"> My Tech Arsenal ⚔️
+## <img src="https://i.imgur.com/mMCzDwQ.gif" width="40"> My Tech Arsenal ⚔️
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/c6/90/51/c69051b3cf0dba0db4f00d846ed7c48b.gif" width="500">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/V9Irozf.gif">
+    <source media="(prefers-color-scheme: light)" srcset="https://i.imgur.com/V9Irozf.gif">
+    <img alt="DMC Nero" src="https://i.imgur.com/V9Irozf.gif" width="500">
+  </picture>
 </div>
 
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://media1.tenor.com/m/s-XyqWE75yUAAAAC/itachi-naruto.gif" width="100">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/QVr5n7t.gif">
+        <source media="(prefers-color-scheme: light)" srcset="https://i.imgur.com/QVr5n7t.gif">
+        <img alt="DMC Vergil" src="https://i.imgur.com/QVr5n7t.gif" width="100">
+      </picture>
       <br>Frontend
     </td>
     <td align="center">
-      <img src="https://media1.tenor.com/m/UecvYzxkYToAAAAC/demonslayer-tanjiro.gif" width="100">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/rDJiODe.gif">
+        <source media="(prefers-color-scheme: light)" srcset="https://i.imgur.com/rDJiODe.gif">
+        <img alt="DMC Dante" src="https://i.imgur.com/rDJiODe.gif" width="100">
+      </picture>
       <br>Backend
     </td>
     <td align="center">
-      <img src="https://media1.tenor.com/m/XPVbB0ZT0psAAAAC/attack-on.gif" width="100">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/Aa8j0Ow.gif">
+        <source media="(prefers-color-scheme: light)" srcset="https://i.imgur.com/Aa8j0Ow.gif">
+        <img alt="DMC V" src="https://i.imgur.com/Aa8j0Ow.gif" width="100">
+      </picture>
       <br>Database
     </td>
     <td align="center">
-      <img src="https://media1.tenor.com/m/PixxdubxMrQAAAAC/vegeta-dbz.gif" width="100">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/HWdAXUR.gif">
+        <source media="(prefers-color-scheme: light)" srcset="https://i.imgur.com/HWdAXUR.gif">
+        <img alt="DMC Combat" src="https://i.imgur.com/HWdAXUR.gif" width="100">
+      </picture>
       <br>DevOps
     </td>
   </tr>
 </table>
 
-## <img src="https://media1.tenor.com/m/O-CLSldl0i8AAAAC/dante-devil-may-cry.gif" width="40"> How to Reach Me... 📡
+## <img src="https://i.imgur.com/RGiWCiL.gif" width="40"> How to Reach Me... 📡
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/a0/d5/81/a0d581666d26dd9c564b576b0d03d12c.gif" width="500">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/X5LTbQj.gif">
+    <source media="(prefers-color-scheme: light)" srcset="https://i.imgur.com/X5LTbQj.gif">
+    <img alt="DMC Nero" src="https://i.imgur.com/X5LTbQj.gif" width="500">
+  </picture>
 </div>
 
 <div align="center">
@@ -159,17 +227,25 @@
 </div>
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/f9/60/32/f96032c073ba9346ebc2f2c7a74684de.gif" width="100%">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/KZRxcSn.gif">
+    <source media="(prefers-color-scheme: light)" srcset="https://i.imgur.com/KZRxcSn.gif">
+    <img alt="DMC Action" src="https://i.imgur.com/KZRxcSn.gif" width="100%">
+  </picture>
 </div>
 
-## <img src="https://media1.tenor.com/m/XMGqUpn2rFIAAAAC/devil-may-cry-nero.gif" width="40"> My Digital DNA 🧬
+## <img src="https://i.imgur.com/S4KbVHe.gif" width="40"> My Digital DNA 🧬
 
 <table align="center">
   <tr>
     <td>
       <h3 align="center">😄 Pronouns</h3>
       <div align="center">
-        <img src="https://media1.tenor.com/m/7N-z-zPWrUYAAAAC/final-fantasy-7-cloud-strife.gif" width="200">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/PuUcMPK.gif">
+          <source media="(prefers-color-scheme: light)" srcset="https://i.imgur.com/PuUcMPK.gif">
+          <img alt="DMC Dante" src="https://i.imgur.com/PuUcMPK.gif" width="200">
+        </picture>
         <p><b>Code/He</b> 🌌</p>
         <p>I speak animated CSS and He/Him.<br>My commits dance, my code shines!</p>
       </div>
@@ -177,7 +253,11 @@
     <td>
       <h3 align="center">⚡ Fun Fact</h3>
       <div align="center">
-        <img src="https://media1.tenor.com/m/uJky5EK6LesAAAAC/dmc5-devil-may-cry5.gif" width="200">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/sYXkrUK.gif">
+          <source media="(prefers-color-scheme: light)" srcset="https://i.imgur.com/sYXkrUK.gif">
+          <img alt="DMC Vergil" src="https://i.imgur.com/sYXkrUK.gif" width="200">
+        </picture>
         <p><b>Code That Pops!</b> 🎉</p>
         <p>I once built a GitHub Action that triggered a confetti explosion for every merged PR, making code reviews a party! 🎊</p>
       </div>
@@ -185,7 +265,7 @@
   </tr>
 </table>
 
-## <img src="https://media1.tenor.com/m/F32A96Eu0JIAAAAC/devil-may-cry-dmc5.gif" width="40"> My GitHub Stats
+## <img src="https://i.imgur.com/NUyCQsY.gif" width="40"> My GitHub Stats
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=shokatq&theme=radical&row=1&column=7&margin-w=15&margin-h=15" />
@@ -204,9 +284,13 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shokatq&theme=redical&bg_color=20232a&hide_border=true" width="100%"/>
 </div>
 
-<!-- Anime Divider -->
+<!-- Devil May Cry Divider -->
 <div align="center">
-  <img src="https://i.pinimg.com/originals/6b/6b/5f/6b6b5fc7733878e9a4da74d795c2fad6.gif" width="100%">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/PeXGiJ3.gif">
+    <source media="(prefers-color-scheme: light)" srcset="https://i.imgur.com/PeXGiJ3.gif">
+    <img alt="DMC Divider" src="https://i.imgur.com/PeXGiJ3.gif" width="100%">
+  </picture>
 </div>
 
 <div align="center">
@@ -224,7 +308,11 @@
 </div>
 
 <div align="center">
-  <img src="https://media1.tenor.com/m/b3uIbKP9utEAAAAC/vergil-motivation.gif" width="400" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/8o5Vq3X.gif">
+    <source media="(prefers-color-scheme: light)" srcset="https://i.imgur.com/8o5Vq3X.gif">
+    <img alt="DMC Vergil" src="https://i.imgur.com/8o5Vq3X.gif" width="400" />
+  </picture>
   <br><br>
   <h3>⭐ I AM THE STORM THAT IS APPROACHING! STAR MY REPOS! ⭐</h3>
 </div>
