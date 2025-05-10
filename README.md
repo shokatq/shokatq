@@ -17,7 +17,7 @@ I'm @shokatq, a passionate developer weaving code into digital masterpieces! Ins
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> I'm Currently Learning... 🌿
 
-- **React Native**:Making apps that makes livig more easy-peasy!
+- **React Native**:Making apps that makes living more easy-peasy!
 - **DSA**:  I wanna experience the taste of MAANG and also SD!
 - **Full Stack**: Developing Webapps to make things faster.
 - **Ui/Ux**: Wear the cape of Creativity.
@@ -26,7 +26,7 @@ I'm @shokatq, a passionate developer weaving code into digital masterpieces! Ins
 
 - **Full stack Apps**: Apps with smooth, eye-catching interfaces.
 - **Open-Source Gems**: GitHub repos that solve real-world challenges.
-- **Algorithms and Machine Models**: Yeah let's fugure this out together.
+- **Algorithms and Machine Models**: Yeah let's figure this out together.
 - **Call of Duty: Warfare**: To relax the exhausted mind.
 
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="30"> How to Reach Me... 📡
